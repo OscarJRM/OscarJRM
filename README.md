@@ -39,7 +39,6 @@
   </a>
 </p>
 
-### 👉 Desarrollo Frontend
 
 ### 👉 Desarrollo Frontend
 <p align="left"> 
