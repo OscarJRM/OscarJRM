@@ -6,7 +6,14 @@
 <hr/>
 <h4 align="center">Soy Oscar Ramírez, un estudiante de 20 años de la carrera de Ingeniería en Software en la Universidad Técnica de Ambato. Me apasiona la programación, el diseño, la innovación y experimentar con nuevas ideas..</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=OscarJRM&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+
+## Acerca de mi :
+
+- 🎓 Estudiante de Ingeniería de Software en la [Universidad Técnica de Ambato](https://www.uta.edu.ec/v4.0/index.php/servicios-web).
+- 🏡 Vivo en Ambato, Ecuador.
+- ⚡ Datos Curiosos: Apasionado por el desarrollo de software y la resolución de problemas. Aficionado a la música, el deporte y la exploración de nuevas tecnologías. 🎵⚽🚀
+
 
 ## 🔥 Contribuciones
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=OscarJRM&theme=algolia&locale=es" alt="GitHub Streak" /></a></p>
@@ -31,6 +38,8 @@
     <img alt="PHP" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   </a>
 </p>
+
+### 👉 Desarrollo Frontend
 
 ### 👉 Desarrollo Frontend
 <p align="left"> 
@@ -78,14 +87,6 @@
 </details>
 
 
-<details>
-  <summary><b>⚡ Actividad Reciente GitHub</b></summary>
-  <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=OscarJRM&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
 
 ## 🙋‍♀️ Contactame! 
@@ -100,11 +101,6 @@
 </p>
 
 <hr/>
-
-* Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 20/07/2021
-
-
 
 
 
